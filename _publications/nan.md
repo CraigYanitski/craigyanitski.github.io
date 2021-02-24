@@ -3,8 +3,8 @@ title: "Sorry!"
 collection: publications
 permalink: /publication/nan
 excerpt: 'This page is still empty :-('
-date: 
+date: future
 venue: 'NaN'
-paperurl: ''
+paperurl: 'https://craigyanitski.github.io/publication/nan'
 citation: ''
 ---
