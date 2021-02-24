@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Craig Yanitski"
-  avatar           : "profile.png"
+  avatar           : "instagram_photo.png" # "yanitski_passport_photo.jpg"
   bio              : "Doctoral Candidate"
   location         : "Köln, Germany"
   employer         : "Universität zu Köln"
