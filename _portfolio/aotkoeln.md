@@ -1,6 +1,6 @@
 ---
 title: "Astronomy on Tap Köln"
-excerpt: "Short description of aotkoeln<br/><img src='/images/aotkoeln_logo.png'>"
+excerpt: "Short description of Astronomy on Tap Köln <br/> <img src='/images/aotkoeln_logo.png' width=500/>"
 collection: portfolio
 ---
 
@@ -18,4 +18,4 @@ This is a temporary placeholder for my work with Astronomy on Tap Köln. For now
 
 
 
-![](/images/aotkoeln_logo.png)
+<img src="/images/aotkoeln_logo.png" width=500\>
