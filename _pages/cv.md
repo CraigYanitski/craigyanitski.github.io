@@ -48,7 +48,7 @@ Volunteer Work
   * Built a greenhouse for an impoverished village
 
 Languages
-
+======
 - English (native tongue/proficient)
 - German (beginner/learning)
 - Dutch (beginner/learning)
@@ -56,7 +56,6 @@ Languages
 
 Computing Programs/Languages
 ======
-
 * MESA (intermediate)
 * binary_c (intermediate)
 * python (proficient)
