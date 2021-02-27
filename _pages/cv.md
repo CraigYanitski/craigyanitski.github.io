@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# Attributes
+[comment]: <> (# Attributes)
 
-- Quick learner
-- Technical aptitude
-- Tendency for creativity
-- Charismatic personality
-- Excellent verbal and written communication (English)
+[comment]: <> (- Quick learner)
+
+[comment]: <> (- Technical aptitude)
+
+[comment]: <> (- Tendency for creativity)
+
+[comment]: <> (- Charismatic personality)
+
+[comment]: <> (- Excellent verbal and written communication &#40;English&#41;)
 
 Education
 ======
@@ -42,7 +46,8 @@ Volunteer Work
 * Volunteer, Reach Out Volunteers, 2014
   * Community work near Urubamba, Peru
   * Built a greenhouse for an impoverished village
-# Languages
+
+Languages
 
 - English (native tongue/proficient)
 - German (beginner/learning)
