@@ -1,6 +1,6 @@
 ---
 title: "KNVWS"
-date: 2019-09-18
+date: "2019-09-18T20:00:00+02:00"
 draft: false
 description: "Asteroseismology: the music of the stars"
 tags: ["outreach talk", "KNVWS"]
