@@ -4,12 +4,17 @@ languageName = "English"
 weight = 1
 title = "Craig Yanitski"
 
+[author]
+  name = "Dr. Craig Nicholas Yanitski"
+  image = "yanitski_crop.jpg"
+
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = ""
+showAuthorAvatar = true
 
   [params.author]
   name = "Dr. Craig Nicholas Yanitski"
