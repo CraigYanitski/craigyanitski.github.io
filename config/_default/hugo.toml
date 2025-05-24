@@ -30,6 +30,10 @@ enableEmoji = true
   author = "authors"
   series = "series"
 
+[params]
+  showArticleTags = true
+  tagStyle = "pill"
+
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
