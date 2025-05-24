@@ -2,6 +2,7 @@
 date: 2024-10-01
 draft: false
 title: "Okada et al. 2024"
+tags: ["refereed", "contribution"]
 ---
 
 **Title:** Bright-rimmed clouds in IC 1396: I. Dynamics

@@ -2,6 +2,7 @@
 date: 2023-02-01
 draft: false
 title: "Yanitski et al. 2023"
+tags: ["conference proceedings"]
 ---
 
 **Title:** Constraining the Galactic far-UV field using a clumpy PDR model 

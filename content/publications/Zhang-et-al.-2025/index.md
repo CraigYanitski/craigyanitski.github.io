@@ -2,6 +2,7 @@
 date: 2025-03-01
 draft: false
 title: "Zhang et al. 2025"
+tags: ["refereed", "contribution"]
 ---
 
 **Title:** Application of Resolved Low-J Multi-CO Line Modeling with RADEX 
