@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish" # UNCOMMENT THIS LINE
+theme = ["hugo-embed-pdf-shortcode", "blowfish"] # UNCOMMENT THIS LINE
 # baseURL = "https://example.org/"
 defaultContentLanguage = "en"
 
@@ -34,6 +34,9 @@ enableEmoji = true
   changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[security]
+  enableInlineShortcodes = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

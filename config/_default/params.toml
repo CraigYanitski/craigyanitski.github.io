@@ -13,7 +13,7 @@ firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
 selineAnalytics = { }
-buymeacoffee = { }
+buymeacoffee = { identifier = "craigyanitski", globalWidget = true }
 verification = { }
 rssnext = { }
 defaultFeaturedImage = "jwst_carina_nircam_small.jpg"
