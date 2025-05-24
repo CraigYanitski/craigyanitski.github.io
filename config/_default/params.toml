@@ -18,8 +18,11 @@ verification = { }
 rssnext = { }
 defaultFeaturedImage = "jwst_carina_nircam_small.jpg"
 
+logo = "yanitski_logo.png"
+
 [header]
 layout = "fixed"
+showAuthorAvatar = true
 
 [footer]
 showMenu = true
