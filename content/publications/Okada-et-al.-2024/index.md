@@ -2,7 +2,7 @@
 date: 2024-10-01
 draft: false
 title: "Okada et al. 2024"
-tags: ["refereed", "contribution"]
+tags: ["refereed", "contribution", "kinematics and dynamics", "lines and bands", "photon-dominated region (PDR)", "IC1396"]
 ---
 
 **Title:** Bright-rimmed clouds in IC 1396: I. Dynamics

@@ -2,7 +2,7 @@
 date: 2023-12-21
 draft: false
 title: 'Yanitski 2023'
-tags: ["thesis"]
+tags: ["thesis", "Interstellar medium", "Photon-dominated region (PDR)", "Astrophysical modelling", "Radiative transfer"]
 ---
 
 **Title:** The Milky Way with kosmatau3d: Modelling the Galactic cooling lines using clumpy PDRs
