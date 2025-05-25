@@ -2,7 +2,7 @@
 date: 2025-03-01
 draft: false
 title: "Zhang et al. 2025"
-tags: ["refereed", "contribution", "Starburst galaxies", "Interstellar medium", "Molecular gas", "Molecular spectroscopy", "Millimeter-wave spectroscopy", "Star formation", "Millimeter-wave spectroscoopy", "Star formation"]
+tags: ["refereed", "contribution", "Starburst galaxies", "Interstellar medium", "Molecular gas", "Molecular spectroscopy", "Millimeter-wave spectroscopy", "Star formation"]
 ---
 
 **Title:** Application of Resolved Low-J Multi-CO Line Modeling with RADEX 
