@@ -10,7 +10,7 @@ My research concerns the understanding radiative transfer in the inhomogeneous I
 and some of the observational artefacts that cloud our interpretation.
 During my doctoral studies at the I. Physikalisches Institut der Universität zu Köln, 
 Germany, I developed a novel clumpy photo-dissociation region (PDR) model 
-[`kosmatau3d`]({{< ref="projects/kosmatau3d/index.md" >}}).
+[`kosmatau3d`]({{< ref "projects/kosmatau3d/index.md" >}}).
 I have used this code to model the Galactic cooling lines in the Milky Way 
 (Yanitski 2023).
 There is an obvious computational limitation in modelling the emission over such a 
