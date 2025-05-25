@@ -16,7 +16,7 @@ selineAnalytics = { }
 buymeacoffee = { identifier = "craigyanitski", globalWidget = true }
 verification = { }
 rssnext = { }
-defaultFeaturedImage = "jwst_carina_nircam_small.jpg"
+#defaultFeaturedImage = "jwst_carina_nircam_small.jpg"
 
 logo = "yanitski_logo.png"
 

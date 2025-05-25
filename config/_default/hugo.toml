@@ -18,6 +18,18 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[cascade]
+  [cascade.params]
+    defaultFeaturedImage = "featured-article.png"
+  [cascade.target]
+    path = '{/publications,/publications/**}'
+#   defaults = [
+#     { path = "publications/**", values = { image = "featured-article.png" } },
+#     { path = "talks/**",        values = { image = "featured-article.png" } },
+#     { path = "teaching/**",     values = { image = "grad.jpeg" } },
+#     { path = "posts/**",        values = { image = "featured-post.jpeg" } }
+#   ]
+
 [pagination]
   pagerSize = 100
 
