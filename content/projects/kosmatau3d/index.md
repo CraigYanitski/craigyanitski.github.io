@@ -2,7 +2,7 @@
 title: "kosmatau3d"
 showDate: false
 draft: false
-tags: ["Python", "PDR", "radiative transfer", "ISM"]
+tags: ["Python", "Photon-dominated region (PDR)", "radiative transfer", "ISM"]
 ---
 
 This is the clumpy photodissociation (PDR) code I developed during my Ph.D.
