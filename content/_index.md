@@ -1,5 +1,7 @@
 ---
-title: Home | Craig Nicholas Yanitski
+title: "Home"
+params:
+  subtitle: "Craig Yanitski"
 ---
 Welcome to my website!
 I am a computational astrophysicist with >10 years' experience in programming.
