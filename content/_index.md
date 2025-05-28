@@ -1,3 +1,6 @@
+---
+title: Home | Craig Nicholas Yanitski
+---
 Welcome to my website!
 I am a computational astrophysicist with >10 years' experience in programming.
 I have the most experience with an interpreted language like python, though I do prefer 
