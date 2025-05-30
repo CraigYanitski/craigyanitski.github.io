@@ -16,8 +16,8 @@ description = ""
   email = "yanitski@ph1.uni-koeln.de"
   image = "yanitski_logo.png"
   imageQuality = 96
-  headline = "I'm only human after all"
-  bio = "I am a freelance astrophysicist.."
+  headline = "Learning from machines"
+  bio = "freelance astrophysicist.."
 
     [[params.author.links]]
     email = "mailto:yanitski@ph1.uni-koeln.de"
