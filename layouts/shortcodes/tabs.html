@@ -1,0 +1,21 @@
+{{- $tabGroupID := printf "tabs-%s" (delimit (shuffle (split (md5 .Inner) "")) "") -}}
+{{- $children := .Page.Store.Get "tabs" -}}
+<div class="blowfish-tabs">
+  <div class="tab-buttons">
+    {{- range $index, $tab := $children -}}
+      <button class="text-gray-500 hover:text-primary-600 dark:hover:text-primary-400 text-base font-medium tab-button {{ if eq $index 0 }}active{{ end }}" 
+              data-tab="{{ $tabGroupID }}-{{ $index }}">
+        {{ $tab.title }}
+      </button>
+    {{- end -}}
+  </div>
+  
+  <div class="tab-contents">
+    {{- range $index, $tab := $children -}}
+      <div class="tab-content {{ if eq $index 0 }}active{{ end }}" 
+           id="{{ $tabGroupID }}-{{ $index }}">
+        {{ $tab.content }}
+      </div>
+    {{- end -}}
+  </div>
+</div>

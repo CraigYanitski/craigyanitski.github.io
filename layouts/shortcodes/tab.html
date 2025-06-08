@@ -1,0 +1,5 @@
+{{- if not (.Page.Store.Get "tabs") -}}
+  {{- .Page.Store.Set "tabs" slice -}}
+{{- end -}}
+{{- $tab := dict "title" (.Get "title") "content" .Inner  -}}
+{{- .Page.Store.Add "tabs" $tab -}}

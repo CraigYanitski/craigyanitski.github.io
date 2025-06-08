@@ -1,0 +1,39 @@
+<script>
+// function openTab(evt, tabName) {
+//   // Hide all tab panels
+//   document.querySelectorAll('.tab-panel').forEach(panel => {
+//     panel.style.display = 'none';
+//   });
+//   
+//   // Remove active class from all buttons
+//   document.querySelectorAll('.tab-button').forEach(btn => {
+//     btn.classList.remove('active');
+//   });
+//   
+//   // Show current tab and mark button as active
+//   document.getElementById(tabName).style.display = 'block';
+//   evt.currentTarget.classList.add('active');
+// }
+// </script>
+
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.tab-button').forEach(button => {
+    button.addEventListener('click', function() {
+      const tabId = this.getAttribute('data-tab');
+      const tabGroup = this.closest('.blowfish-tabs');
+      
+      // Deactivate all buttons and contents in this group
+      tabGroup.querySelectorAll('.tab-button').forEach(btn => {
+        btn.classList.remove('active');
+      });
+      tabGroup.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+      });
+      
+      // Activate current selection
+      this.classList.add('active');
+      document.getElementById(tabId).classList.add('active');
+    });
+  });
+});
+</script>
