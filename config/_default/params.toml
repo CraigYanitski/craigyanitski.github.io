@@ -19,7 +19,7 @@ rssnext = { }
 #defaultFeaturedImage = "jwst_carina_nircam_small.jpg"
 
 logo = "yanitski_logo.png"
-favicon = "favicon.ico"
+favicon = "favicon-16x16.png"
 
 [header]
 layout = "fixed"
