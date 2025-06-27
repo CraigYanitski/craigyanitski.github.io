@@ -1,4 +1,8 @@
 .hugo_build*
 public
 resources
+assets/favicon*
+assets/*manifest*
+assets/apple-touch-icon.png
+assets/android-chrome*
 
